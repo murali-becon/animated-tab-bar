@@ -20,6 +20,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE
 
+//Test Comment for Becon
+
 import UIKit
 
 open class RAMBadge: UILabel {
