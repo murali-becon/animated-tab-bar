@@ -161,3 +161,5 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
+
+1.Becon-eCom's Fork, by Murali
